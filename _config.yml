@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url:  http://myfebu.com
+url: http://myfebu.com
 date_format: "ordinal"
 title: Rm
 subtitle: "公众号：待续"
