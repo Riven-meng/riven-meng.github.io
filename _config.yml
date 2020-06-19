@@ -119,14 +119,16 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: riven-M
-    repo: blog-comments
+#    repo: blog-comments
+    repo: riven-meng.github.io
     oauth:
         client_id: f91710f1f115ce0c25d2
         client_secret: 9d650d5b4b52ce252d243453ceca8c3dff5dae6b
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: riven-M
-    repo: blog-comments
+#    repo: blog-comments
+    repo: riven-meng.github.io
     clientID: f91710f1f115ce0c25d2
     clientSecret: 9d650d5b4b52ce252d243453ceca8c3dff5dae6b
 # 在使用其它评论组件时可点击显示 Disqus
