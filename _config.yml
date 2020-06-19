@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: www.myfebu.com
+url:  http://myfebu.com
 date_format: "ordinal"
 title: Rm
 subtitle: "公众号：待续"
 description: "Rm 闷骚程序呀"
-keywords: Rm,Riven,Rmeng,Meng
+keywords: Rm,Riven,Rmeng,Meng.riven-M
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -24,7 +24,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: true
-        start_date: 2020-05-03
+        start_date: 2020-06-18
 # 压缩页面内容
 compress_html:
   clippings: all
@@ -36,10 +36,10 @@ word_count:
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Rmeng
+author: riven-M
 organization: 
 organization_url: 
-github_username: Riven-meng
+github_username: riven-M
 location: SH, China
 email: riven.meng@gmail.com
 
@@ -118,14 +118,14 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: raven
+    owner: riven-M
     repo: blog-comments
     oauth:
         client_id: f91710f1f115ce0c25d2
         client_secret: 9d650d5b4b52ce252d243453ceca8c3dff5dae6b
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: raven
+    owner: riven-M
     repo: blog-comments
     clientID: f91710f1f115ce0c25d2
     clientSecret: 9d650d5b4b52ce252d243453ceca8c3dff5dae6b
