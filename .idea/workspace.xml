@@ -2,80 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62fa8884-b793-4030-a97a-663011148b4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-06-22-blog-template-qna.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/links.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/links.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-06-19-blog-template-qna.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/1024-gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/1024-kuaishou.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/1024-meituan.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/1024-sogou.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/1024-vote.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/2016-plan-progress.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/2018-books-and-movies.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/2018-github.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/2018-guanggu-running.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/2018-luoyang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/2018-phuket.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/3w-programmer.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/Andy-Lau.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/Diamond.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/Sharp-Brother.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/airdrop-address.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/airdrop-base64.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/airdrop-cashout.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/airdrop-done.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/airdrop-hns.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/airdrop-income.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/airdrop-pending.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/airdrop-submit.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/airdrop-verify.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/books-and-movies.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/chenmodedaduoshu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/doubt.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/educate-yourself.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/efficient-cheats.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/encourage.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/excellence.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/fake.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/github-contributions-2016.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/hackathon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/holistic-learning-sequence.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/information-structure.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/jestem-bs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/jestem-poem.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/jestem.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/kepu.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/landscape.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/learn-more-study-less-machine-translate.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/learn-more-study-less-s.s.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/marathon-2016.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/meet-problem.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/offline.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/overtime.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/qianzou.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/release-books.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/request-love.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/solve-method1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/solve-method2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/the-kite-runner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/three-gooses.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/three-steps.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/time-manage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/two-circles.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/two-steps.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/wangxiaobozhimu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/wudaokou.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/wiki/breaststroke.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/wiki/code-generation-naming.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/wiki/eclipse-need-java6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/wiki/intellij-idea-auto-build.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/wiki/intellij-idea-auto-make.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/wiki/intellij-idea-registry.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/wiki/jump-from-class-to-layout.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/wiki/jump-from-layout-to-class.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/wiki/visio-png-size.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-06-22-blog-template-qna.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-06-22-blog-template-qna.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
