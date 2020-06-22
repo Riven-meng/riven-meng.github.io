@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62fa8884-b793-4030-a97a-663011148b4d" name="Default Changelist" comment="" />
+    <list default="true" id="62fa8884-b793-4030-a97a-663011148b4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-06-19-blog-template-qna.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/links.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/links.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/social.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/social.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-05-03-blog-template-qna.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-06-18-blog-template-qna.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +28,21 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.vendoring.notification.had.been.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Gowork\src\riven-meng.github.io\_posts" />
+    </key>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2660" y="274" key="FileChooserDialogImpl" timestamp="1592563803188">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1592563803188" />
+    <state x="2582" y="256" width="596" height="528" key="find.popup" timestamp="1592563793847">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2582" y="256" width="596" height="528" key="find.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1592563793847" />
   </component>
 </project>
