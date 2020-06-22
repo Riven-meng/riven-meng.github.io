@@ -126,3 +126,5 @@ alter table user add index city_user(city, name);
 #### 总结
 * 今天这篇文章，我和你介绍了 MySQL 里面order by语句的几种算法流程。
 * 在开发系统的时候，你总是不可避免地会使用到 order by 语句。心里要清楚每个语句的排序逻辑是怎么实现的，还要能够分析出在最坏情况下，每个语句的执行对系统资源的消耗，这样才能做到下笔如有神，不犯低级错误。
+
+[源自](https://www.cnblogs.com/Chenjiabing/p/12696879.html)

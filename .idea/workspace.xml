@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62fa8884-b793-4030-a97a-663011148b4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-06-22-blog-docker.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-06-22-blog-laradock.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-06-22-blog-template-qna.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-06-22-blog-template-qna.md" afterDir="false" />
     </list>
@@ -42,5 +44,9 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2582" y="256" width="596" height="528" key="find.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1592809746508" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592812339511">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1592812339511" />
   </component>
 </project>
